@@ -1,3 +1,5 @@
+![CT2890 Datorgrafik](CT2890-bok.jpg)
+
 # CT2890 Datorgrafik
 
 Kursmaterial från kursen CT2890 Datorgrafik som jag (Kjell Post) gav vid
